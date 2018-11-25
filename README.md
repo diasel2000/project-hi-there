@@ -3,7 +3,7 @@
 We present open-source project for give opportunity for people control their food ration.
 ![alt text](https://github.com/diasel2000/project-hi-there/blob/master/static/img/hero.jpg)
 
-###The Key Idea
+### The Key Idea
 **If looking from side of possible users.** They need most easiest and absolutely convenient
 app for quick and simple using where its needs. 
 Places where you could use the app: 
