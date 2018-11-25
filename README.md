@@ -1,9 +1,9 @@
 # Food Descriptor
 
 We present open-source project for give opportunity for people control their food ration.
+![alt text](https://github.com/diasel2000/project-hi-there/blob/master/static/img/hero.jpg)
 
-### The Key Ideas
-
+###The Key Idea
 **If looking from side of possible users.** They need most easiest and absolutely convenient
 app for quick and simple using where its needs. 
 Places where you could use the app: 
@@ -18,7 +18,7 @@ it and add unique features for app. Participate in open-source project for wide 
 reasons. And also if you need you can always write to us.
 
 ### Stay with us...
-**In second version of app we will add next features**
+In second version of app we will add next features
 
 - [x] Create text miner from a image
 - [x] Create text analyzer
@@ -28,4 +28,3 @@ reasons. And also if you need you can always write to us.
 - [ ] Add user profiles
 - [ ] Add history of foods
 - [ ] Add deep food analysis 
-
