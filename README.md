@@ -2,7 +2,8 @@
 
 We present open-source project for give opportunity for people control their food ration.
 
-###The Key Idea
+### The Key Ideas
+
 **If looking from side of possible users.** They need most easiest and absolutely convenient
 app for quick and simple using where its needs. 
 Places where you could use the app: 
